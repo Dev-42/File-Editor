@@ -1,0 +1,24 @@
+{
+  "name": "file-editor",
+  "version": "1.0.0",
+  "description": "This project is made using NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-42/File-Editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-42/File-Editor/issues"
+  },
+  "homepage": "https://github.com/Dev-42/File-Editor#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "yargs": "^17.7.2"
+  }
+}
